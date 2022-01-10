@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-blips-dev-152916-authRole",
+      "UnauthRoleArn": "arn:aws:iam::904548764347:role/amplify-blips-dev-152916-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::904548764347:role/amplify-blips-dev-152916-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-blips-dev-152916-deployment",
+      "UnauthRoleName": "amplify-blips-dev-152916-unauthRole",
+      "StackName": "amplify-blips-dev-152916",
+      "StackId": "arn:aws:cloudformation:us-east-2:904548764347:stack/amplify-blips-dev-152916/5f965c50-725c-11ec-8c46-021a1888cc22",
+      "AmplifyAppId": "d2b0lidazdkgrv"
+    },
+    "categories": {
+      "auth": {
+        "blips366db8e2": {}
+      }
+    }
+  }
+}

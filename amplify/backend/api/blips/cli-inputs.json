@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "blips",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/rjm/Blips/amplify/backend/api/blips/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authblips366db8e2"
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "API_KEY",
+        "expirationTime": 365,
+        "apiKeyExpirationDate": "2023-01-10T21:42:59.161Z",
+        "keyDescription": "blips"
+      }
+    ]
+  }
+}
